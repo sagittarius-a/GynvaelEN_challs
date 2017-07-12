@@ -1,0 +1,27 @@
+Welcome back agent 1336.
+No mail.
+> mission --take
+MISSION 005               goo.gl/bOKTpd             DIFFICULTY: █████░░░░░ [5╱10]
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+We've already learned not to rely on "agent Huffman's" ability to send us text
+messages. So this time, we've asked him to take a picture of some secret 
+documents and put them on a website. I mean, would could possibly go wrong,
+right?
+
+Well, he sent us this link:
+
+  http://gynvael.vexillium.org/ext/thepicture/
+
+Obviously we can't make heads or tails of it. Please help.
+
+On a totally unrelated note, we're looking for new agents...
+
+GOOD LUCK!
+
+If you decode the answer, put it in the comments under this video! If you write
+a blogpost / post your solution online, please add a link in the comments too!
+
+P.S. I'll show/explain the solution on the stream next week.
+
+
